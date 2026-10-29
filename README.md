@@ -1,1 +1,1 @@
-selapian.github.io/quantum-magick-8ball
+Quantum Magick 8Ball, works on mobile.
